@@ -1,2 +1,2 @@
 #worker: node run.js
-web npm test
+web make test
