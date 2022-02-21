@@ -16,11 +16,7 @@
     "test": "make test"
   },
   "license": "MIT",
-  "engines": {
-    "node": "^10.14.1 || ^8.15.1 || ^12.2.0",
-    "npm": "^6.4.1"
-  },
-  "dependencies": {
+   "dependencies": {
     "axios": "^0.19.2",
     "axios-cookiejar-support": "^1.0.0",
     "common": "^0.2.5",
